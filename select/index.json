@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "MEN OF DESTINY",
+  "base_artist": "Mio",
+  "createdAt": "2025-12-11T07:11:24.947470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MEN OF DESTINY",
+      "artist": "MIO",
+      "has_synced": true,
+      "path": "select/01_MEN_OF_DESTINY_MIO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MEN OF DESTINY",
+      "artist": "MIO",
+      "has_synced": true,
+      "path": "select/02_MEN_OF_DESTINY_MIO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MEN OF DESTINY",
+      "artist": "MIO",
+      "has_synced": true,
+      "path": "select/03_MEN_OF_DESTINY_MIO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Men of Destiny",
+      "artist": "The Twins",
+      "has_synced": false,
+      "path": "select/04_Men_of_Destiny_The_Twins.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Men of Destiny Kidou Senshi Gundam 0083 Stardust Memory Live",
+      "artist": "MiQ",
+      "has_synced": false,
+      "path": "select/05_Men_of_Destiny_Kidou_Senshi_Gundam_0083_Stardust_Memory_Live_MiQ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MEN OF DESTINY",
+      "artist": "MIO",
+      "has_synced": false,
+      "path": "select/pl_01_MEN_OF_DESTINY_MIO.txt"
+    }
+  ]
+}
