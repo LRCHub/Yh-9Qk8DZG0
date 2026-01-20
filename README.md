@@ -1,4 +1,4 @@
-# Mio – MEN OF DESTINY
+# MIO – MEN OF DESTINY
 
 > **歌詞登録ステータス：同期歌詞あり**
 
